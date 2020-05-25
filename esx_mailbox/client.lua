@@ -1,5 +1,5 @@
+ESX = nil
 local posizioni = Config.Positions
-local ESX = nil
 local titlename = ""
 local guiEnabled = false
 local props = {}
