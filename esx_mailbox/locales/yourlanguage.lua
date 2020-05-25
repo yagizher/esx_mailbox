@@ -1,0 +1,4 @@
+Locales['yourlanguage'] = {
+    ['template'] = 'template',
+
+}
